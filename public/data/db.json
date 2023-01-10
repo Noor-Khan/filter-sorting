@@ -1,0 +1,411 @@
+[
+  {
+      "title": "Sessions and Events Analytics 1",
+      "creator": {
+          "id": 191,
+          "name": "Janis Joplin"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Steve Jobbs",
+          "Bob Marley",
+          "Jerry Garcia",
+          "Janis Joplin",
+          "Johnny Cash"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-01-04T11:27:00.000Z"
+  },
+  {
+      "title": "Shipping Logistics & Operations Overview 1",
+      "creator": {
+          "id": 266,
+          "name": "Janis Joplin"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Gill Bates",
+          "Jimmi Hendrix",
+          "Jerry Garcia",
+          "Bob Marley",
+          "Kurt Cobain",
+          "Janis Joplin",
+          "Aldous Huxley",
+          "Peter Tosh",
+          "Steve Jobbs"
+      ],
+      "interval": "weekly",
+      "next_delivery": "2023-01-07T22:01:00.000Z"
+  },
+  {
+      "title": "Sessions and Events Analytics 2",
+      "creator": {
+          "id": 170,
+          "name": "Peter Tosh"
+      },
+      "trigger": "one-time",
+      "recipients": [
+          "Lauryn Hill",
+          "Gill Bates",
+          "Bob Marley",
+          "Elon Musk",
+          "Jerry Garcia",
+          "Steve Jobbs",
+          "Janis Joplin"
+      ],
+      "interval": "weekly",
+      "next_delivery": "2023-01-11T07:25:00.000Z"
+  },
+  {
+      "title": "Shipping Logistics & Operations Overview 2",
+      "creator": {
+          "id": 105,
+          "name": "Aldous Huxley"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Elon Musk",
+          "Jerry Garcia"
+      ],
+      "interval": "weekly",
+      "next_delivery": "2023-01-12T07:20:00.000Z"
+  },
+  {
+      "title": "Shipping Logistics & Operations Overview 3",
+      "creator": {
+          "id": 154,
+          "name": "Donald Trump"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Bob Marley",
+          "Steve Jobbs",
+          "Johnny Cash",
+          "Donald Trump"
+      ],
+      "interval": "weekly",
+      "next_delivery": "2023-01-12T08:05:00.000Z"
+  },
+  {
+      "title": "Shipping Logistics & Operations Overview 4",
+      "creator": {
+          "id": 262,
+          "name": "Gill Bates"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Peter Tosh",
+          "Steve Jobbs",
+          "Janis Joplin",
+          "Lauryn Hill",
+          "Jimmi Hendrix",
+          "Elon Musk",
+          "Jerry Garcia",
+          "Donald Trump",
+          "Kurt Cobain"
+      ],
+      "interval": "weekly",
+      "next_delivery": "2023-01-12T08:07:00.000Z"
+  },
+  {
+      "title": "Sessions and Events Analytics 55",
+      "creator": {
+          "id": 136,
+          "name": "Johnny Cash"
+      },
+      "trigger": "one-time",
+      "recipients": [
+          "Aldous Huxley",
+          "Steve Jobbs",
+          "Bob Marley",
+          "Kurt Cobain",
+          "Donald Trump"
+      ],
+      "interval": "weekly",
+      "next_delivery": "2023-01-12T08:10:00.000Z"
+  },
+  {
+      "title": "Sessions and Events Analytics 77",
+      "creator": {
+          "id": 144,
+          "name": "Gill Bates"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Bob Marley",
+          "Steve Jobbs",
+          "Elon Musk",
+          "Jerry Garcia",
+          "Gill Bates",
+          "Donald Trump"
+      ],
+      "interval": "weekly",
+      "next_delivery": "2023-01-12T08:12:00.000Z"
+  },
+  {
+      "title": "Links",
+      "creator": {
+          "id": 143,
+          "name": "Peter Tosh"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Aldous Huxley"
+      ],
+      "interval": "monthly",
+      "next_delivery": "2023-02-02T08:29:00.000Z"
+  },
+  {
+      "title": "Dashboard to test user attributes (Shared folder)",
+      "creator": {
+          "id": 190,
+          "name": "Jerry Garcia"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Aldous Huxley",
+          "Elon Musk",
+          "Lauryn Hill",
+          "Donald Trump",
+          "Peter Tosh"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-25T13:53:00.000Z"
+  },
+  {
+      "title": "test 0303",
+      "creator": {
+          "id": 208,
+          "name": "Jimmi Hendrix"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Steve Jobbs"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T10:06:00.000Z"
+  },
+  {
+      "title": "testing func format 2",
+      "creator": {
+          "id": 139,
+          "name": "Lauryn Hill"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Aldous Huxley"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T12:35:00.000Z"
+  },
+  {
+      "title": "test html formatting 2",
+      "creator": {
+          "id": 188,
+          "name": "Bob Marley"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Lauryn Hill",
+          "Donald Trump",
+          "Gill Bates",
+          "Bob Marley",
+          "Peter Tosh",
+          "Steve Jobbs",
+          "Jerry Garcia",
+          "Janis Joplin"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T13:25:00.000Z"
+  },
+  {
+      "title": "testing line jump",
+      "creator": {
+          "id": 119,
+          "name": "Bob Marley"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Jimmi Hendrix",
+          "Donald Trump"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T13:30:00.000Z"
+  },
+  {
+      "title": "test func format 2",
+      "creator": {
+          "id": 193,
+          "name": "Donald Trump"
+      },
+      "trigger": "one-time",
+      "recipients": [
+          "Gill Bates",
+          "Lauryn Hill",
+          "Peter Tosh",
+          "Janis Joplin",
+          "Donald Trump",
+          "Aldous Huxley",
+          "Johnny Cash"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T14:19:00.000Z"
+  },
+  {
+      "title": "test underscore format",
+      "creator": {
+          "id": 174,
+          "name": "Aldous Huxley"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Elon Musk",
+          "Jimmi Hendrix",
+          "Peter Tosh"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T14:24:00.000Z"
+  },
+  {
+      "title": "test func format 3",
+      "creator": {
+          "id": 171,
+          "name": "Peter Tosh"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Lauryn Hill",
+          "Kurt Cobain",
+          "Aldous Huxley",
+          "Peter Tosh",
+          "Gill Bates",
+          "Bob Marley",
+          "Elon Musk",
+          "Johnny Cash",
+          "Donald Trump"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T14:28:00.000Z"
+  },
+  {
+      "title": "test line jump 2",
+      "creator": {
+          "id": 202,
+          "name": "Kurt Cobain"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Gill Bates"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T15:14:00.000Z"
+  },
+  {
+      "title": "Sessions and Events Analytics (asset for testing - do not modify!)",
+      "creator": {
+          "id": 222,
+          "name": "Kurt Cobain"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Bob Marley"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T15:36:00.000Z"
+  },
+  {
+      "title": "breaking replace format 3",
+      "creator": {
+          "id": 218,
+          "name": "Lauryn Hill"
+      },
+      "trigger": "one-time",
+      "recipients": [
+          "Johnny Cash",
+          "Donald Trump"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-28T16:06:00.000Z"
+  },
+  {
+      "title": "breaking replace format 7",
+      "creator": {
+          "id": 123,
+          "name": "Johnny Cash"
+      },
+      "trigger": "one-time",
+      "recipients": [
+          "Kurt Cobain",
+          "Johnny Cash",
+          "Elon Musk",
+          "Donald Trump",
+          "Bob Marley",
+          "Aldous Huxley",
+          "Jimmi Hendrix"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2023-12-29T06:39:00.000Z"
+  },
+  {
+      "title": "test func format 7",
+      "creator": {
+          "id": 287,
+          "name": "Bob Marley"
+      },
+      "trigger": "time",
+      "recipients": [
+          "Gill Bates",
+          "Jerry Garcia",
+          "Elon Musk",
+          "Aldous Huxley",
+          "Steve Jobbs"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2024-01-02T14:19:00.000Z"
+  },
+  {
+      "title": "teest chip1",
+      "creator": {
+          "id": 146,
+          "name": "Gill Bates"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Steve Jobbs"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2024-01-03T07:11:00.000Z"
+  },
+  {
+      "title": "Brand Lookup",
+      "creator": {
+          "id": 276,
+          "name": "Janis Joplin"
+      },
+      "trigger": "one-time",
+      "recipients": [
+          "Peter Tosh",
+          "Donald Trump",
+          "Elon Musk",
+          "Johnny Cash",
+          "Jimmi Hendrix",
+          "Jerry Garcia",
+          "Steve Jobbs"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2024-01-03T15:42:00.000Z"
+  },
+  {
+      "title": "Sessions & Events Analytics",
+      "creator": {
+          "id": 159,
+          "name": "Gill Bates"
+      },
+      "trigger": "data",
+      "recipients": [
+          "Steve Jobbs"
+      ],
+      "interval": "one-time",
+      "next_delivery": "2024-01-04T06:45:00.000Z"
+  }
+]
